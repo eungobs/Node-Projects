@@ -16,8 +16,10 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository:**
   
-   git clone https://github.com/your-username/simple-http-server.git
-   cd simple-http-server
+   git clone https://github.com/eungobs/Node-Projects.git
+   mkdir node-server
+   cd node-server
+   
 Install dependencies: This project does not have any external dependencies. However, ensure you have Node.js installed on your machine. You can download it from Node.js official website.
 Usage
 To start the server, run the following command in your terminal:
